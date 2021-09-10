@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    font-family: Raleway, Arail, sans-serif;
+}
+
+header {
+    background-image: url('../Cheatsheet/images/banner.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 100px;
+    color:magenta;
+}
+
+.subtitle {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 70px;
+    color:mistyrose;
+}
+
+main {
+    background-image: url('../Cheatsheet/images/Sea_Turtle_Background.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.articletitle {
+    font-weight: 400;
+    font-size: 60px;
+    color: purple;
+    background-color:rgb(255, 228, 181, 0.7); 
+}
+
+.articlepara {
+    font-size: 40px;
+    background-color: rgb(255, 228, 181, 0.7);
+}
+
+table {
+    background-color: rgb(255, 228, 181);
+    border: 10px solid red;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+th {
+    font-weight: 400;
+    font-size: 30px;
+    border: 2px solid red;    
+}
+
+td {
+    border: 2px solid red;
+}
+
+.code {
+    font-family: "Lucidia Console", Courier, monospace;
+    background-color:turquoise
+}
